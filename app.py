@@ -172,6 +172,7 @@ try:
 
 except Exception as e:
     st.error(f"⚠ Could not generate SHAP explanation: {e}")
+
 # ----------------------------
 # FOOTER
 # ----------------------------
